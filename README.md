@@ -21,9 +21,7 @@ How do refugee-producing and refugee-hosting patterns differ across Levant count
 
 ## Data Source
 
-United Nations High Commissioner for Refugees (UNHCR)
-
-Refugee Data Finder (2025)
+United Nations High Commissioner for Refugees (UNHCR) Refugee Data Finder (2025)
 
 Population figures were extracted from the UNHCR Forced Displacement database.
 
@@ -75,8 +73,8 @@ Refugee population estimates were obtained from UNHCR Refugee Data Finder (2025)
 
 ## Project Files
 
-- `levant_refugees_origin.R`
-- `levant_refugees_hostcountry.R`
+- `refugee_producing_countries_levant.R`
+- `refugee_hosting_countries_levant.R`
 - `refugee_producing_countries_levant_2025.png`
 - `refugee_hosting_countries_levant_2025.png`
 
